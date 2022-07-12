@@ -1,7 +1,7 @@
 # Library Data Visualizer 
 
-For City of Glendale, CA, Department of Libraries. 
-Accesses the library database with Sierra REST API and generates a data report for each library branch in the city
+***For City of Glendale, CA, Department of Libraries. 
+Accesses the library database with Sierra REST API and generates a data report for each library branch in the city***
 
 
 -----
