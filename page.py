@@ -18,7 +18,7 @@ con = psycopg2.connect(
     host = "pgpl-db.iii.com",
     database = "iii",
     user = "gzaarour",
-    password = "gdAL3-818_",
+    password = "",
     port = "1032"
     )
 #or 54012 or 5432 for port
